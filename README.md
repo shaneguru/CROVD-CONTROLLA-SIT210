@@ -43,8 +43,8 @@ its machine learning model required more cpu/ram to run smoothly on a
 raspberry pi 3, I decided to use cascade classifier which was recommended to
 be used with a raspberry pi and it ran the pi camera smoothly with a frame rate
 of around 20-25 compared with the TensorFlow lights model which was just
-2fps. The cascade classifier is not one of the best classifier’s,but it was good for
-my requirements and detected well most of the time I tested it.
+2fps. The cascade classifier is not one of the best classifier’s,but it was good for my requirements and detected well most of the time I tested it.
+
 ######  The incrementing function when a person enters
 I tested this functionality many times since this was the main part of the
 project, Ideally the counter should be incremented only when the rectangle
